@@ -71,7 +71,7 @@ python train.py
 ### Live Video Classification  
 Run the script for real-time drowsiness detection:  
 ```bash
-python live_classification.py
+python main.py
 ```
 
 ### Key Bindings:  
